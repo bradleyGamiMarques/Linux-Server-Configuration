@@ -77,7 +77,7 @@ On the Amazon Lightsail instance
 
 Back on the local machine
 ===
-At this point you should be able to login as the user you created using the following command from your local terminal: ssh {{user}}@{{ip_address}} -p 22 -i ~/.ssh/{{name of key}}
+At this point you should be able to login as the user you created using the following command from your local terminal: ssh {{user}}@{{ip_address}} -p 2200 -i ~/.ssh/{{name of key}}
 
 Configuring the server to serve our Python application
 ===
